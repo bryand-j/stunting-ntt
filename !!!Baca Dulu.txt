@@ -1,0 +1,9 @@
+#atur Koneksi DB di file .env 
+
+#menjalankan aplikasi dengn cara 
+-jalankan cmd
+-arahkan path ke root direktori project
+-masukan perintah 'php spark serve'
+
+
+[ https://github.com/bryand-j ]
